@@ -38,12 +38,12 @@ for the variables in `gap`?
 
 Variable | Type
 ---------|----------
-Var 1    |Country(Chr)
-Var 2    |Continent(Chr)
-Var 3    |Year(Dbl)
-Var 4    |Life Expectancy(Dbl)
-Var 5    |Population(Dbl)
-Var 6    |Per Capita GDP(Dbl)
+Country  |Chr
+Continent|Chr
+Year     |Dbl
+Life Expectancy |Dbl
+Population|Dbl
+Per Capita GDP|Dbl
 
 ### Exercise 2
 
