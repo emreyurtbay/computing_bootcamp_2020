@@ -1,7 +1,7 @@
 ---
 title: "Gapminder Data Analysis"
-author: ""
-date: ""
+author: "Emre Yurtbay"
+date: "August 9th 2020"
 output: html_document
 ---
 
